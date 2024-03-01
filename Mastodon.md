@@ -1,1 +1,1 @@
-# Mastodon
+## Mastodon
