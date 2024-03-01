@@ -1,16 +1,36 @@
 from bs4 import BeautifulSoup
 import requests
+from googlesearch import search
+import time
 
 
 def create_subsite(name):
-    mid = name.replace(" ", "-")
-    print('https://www.alamy.com/stock-photo/' + mid + "-metal-band.html?sortBy=relevant")
-    # response = requests.get('https://www.shutterstock.com/pl/search/' + mid + "-metal-band")
-    # soup = BeautifulSoup(response.content, 'html.parser')
-    # print(soup)
-    # # with open(name + ".md", "w", encoding="utf-8") as file:
-    # #     file.write("## " + name)
-
+    if name == "Body Count":
+        tempname = "Body Count (band)"
+    else:
+        tempname = name
+    plus = tempname.replace(' ', '_')
+    response = requests.get('https://en.wikipedia.org/wiki/' + plus)
+    soup = BeautifulSoup(response.content, 'html.parser')
+    photo = soup.findAll('img')[3].get('src')
+    if name == "Metallica":
+        photo = soup.findAll('img')[5].get('src')
+    if photo == "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png":
+        photo = soup.findAll('img')[4].get('src')
+    if photo == "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png":
+        photo = soup.findAll('img')[5].get('src')
+    if photo == "//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png":
+        photo = soup.findAll('img')[4].get('src')
+    info = []
+    for url in search(name + " band", stop=3):
+        info.append(url)
+    with open(name + ".md", "w", encoding="utf-8") as file:
+        file.write("## " + name + "\n")
+        file.write("#### Additional informations:\n")
+        for url in info:
+            file.write("[" + url +"](" + url + ")\n\n")
+        file.write("#### Photo of the " + name + ":\n")
+        file.write("![" + name + " photo](https:" + photo + ")\n")
 
 def main_site():
     response = requests.get('https://pl.wikipedia.org/wiki/Nagroda_Grammy_w_kategorii_Best_Metal_Performance')
