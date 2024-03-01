@@ -1,8 +1,8 @@
 ## Body Count
 #### Additional informations:
-[hehe](hehe)
+[https://en.wikipedia.org/wiki/Body_Count_(band)](https://en.wikipedia.org/wiki/Body_Count_(band))
 
-[hihi](hihi)
+[https://en.wikipedia.org/wiki/Body_Count_(album)](https://en.wikipedia.org/wiki/Body_Count_(album))
 
 #### Photo of the Body Count:
 ![Body Count photo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Body_Count_feat._Ice-T_%28cropped%29.jpg/300px-Body_Count_feat._Ice-T_%28cropped%29.jpg)

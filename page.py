@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 from googlesearch import search
-import time
 
 
 def create_subsite(name):
@@ -22,7 +21,7 @@ def create_subsite(name):
     if photo == "//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png":
         photo = soup.findAll('img')[4].get('src')
     info = []
-    for url in search(name + " band", stop=3):
+    for url in search(name + " band", stop=2):
         info.append(url)
     with open(name + ".md", "w", encoding="utf-8") as file:
         file.write("## " + name + "\n")
@@ -31,6 +30,7 @@ def create_subsite(name):
             file.write("[" + url +"](" + url + ")\n\n")
         file.write("#### Photo of the " + name + ":\n")
         file.write("![" + name + " photo](https:" + photo + ")\n")
+
 
 def main_site():
     response = requests.get('https://pl.wikipedia.org/wiki/Nagroda_Grammy_w_kategorii_Best_Metal_Performance')
