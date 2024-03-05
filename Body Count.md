@@ -1,8 +1,10 @@
 ## Body Count
 #### Additional informations:
-[https://en.wikipedia.org/wiki/Body_Count_(band)](https://en.wikipedia.org/wiki/Body_Count_(band))
+[BODY COUNT Completes Recording New Album 'Merciless'](https://blabbermouth.net/news/body-count-completes-recording-new-album-merciless)
 
-[https://en.wikipedia.org/wiki/Body_Count_(album)](https://en.wikipedia.org/wiki/Body_Count_(album))
+[Every Body Count Album Ranked - Rock and Roll Globe](https://rockandrollglobe.com/heavy-metal/every-body-count-album-ranked/)
+
+[The Untold Truth Of Body Count - Grunge](https://www.grunge.com/748737/the-untold-truth-of-body-count/)
 
 #### Photo of the Body Count:
-![Body Count photo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Body_Count_feat._Ice-T_%28cropped%29.jpg/300px-Body_Count_feat._Ice-T_%28cropped%29.jpg)
+![Body Count photo](https://allabouttherock.co.uk/wp-content/uploads/2017/11/Band-Photo-Body-Count-scaled.jpg)

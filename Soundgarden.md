@@ -1,8 +1,10 @@
 ## Soundgarden
 #### Additional informations:
-[https://en.wikipedia.org/wiki/Soundgarden](https://en.wikipedia.org/wiki/Soundgarden)
+[Best Soundgarden Songs: 20 Tracks That Outshine The Competition](https://www.udiscovermusic.com/stories/best-soundgarden-songs-20-essential-tracks/)
 
-[https://en.wikipedia.org/wiki/Soundgarden_discography](https://en.wikipedia.org/wiki/Soundgarden_discography)
+[Complete List Of Soundgarden Band Members - Classic Rock History](https://www.classicrockhistory.com/complete-list-of-soundgarden-band-members/)
+
+[The Best Soundgarden Songs, Ranked - UPROXX](https://uproxx.com/indie/the-best-soundgarden-songs-ranked/)
 
 #### Photo of the Soundgarden:
-![Soundgarden photo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Soundgarden_at_Paramount_Theatre.jpg/300px-Soundgarden_at_Paramount_Theatre.jpg)
+![Soundgarden photo](http://wp-images.emusic.com/assets/2011/11/MI0001332598-1024x813.jpg)

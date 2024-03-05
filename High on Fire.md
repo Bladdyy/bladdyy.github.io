@@ -1,8 +1,10 @@
 ## High on Fire
 #### Additional informations:
-[https://en.wikipedia.org/wiki/High_on_Fire](https://en.wikipedia.org/wiki/High_on_Fire)
+[HIGH ON FIRE Releases New Music Video For 'Burning Down' Single](https://blabbermouth.net/news/high-on-fire-releases-new-music-video-for-burning-down-single)
 
-[https://en.wikipedia.org/wiki/Matt_Pike](https://en.wikipedia.org/wiki/Matt_Pike)
+[HIGH ON FIRE's New Album Will Please Old-School Fans Of The Band](https://metalinjection.net/upcoming-releases/high-on-fires-new-album-will-please-old-school-fans-of-the-band)
+
+[High On Fire: "It feels like a storm has been building ... - Kerrang!](https://www.kerrang.com/high-on-fire-the-coming-storm-first-look-matt-pike)
 
 #### Photo of the High on Fire:
-![High on Fire photo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HF2022HighOnFire_4.jpg/280px-HF2022HighOnFire_4.jpg)
+![High on Fire photo](https://southernlord.com/media/2018/01/high_on_fire.jpg)

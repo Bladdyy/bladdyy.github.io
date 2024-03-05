@@ -1,8 +1,10 @@
 ## Dream Theater
 #### Additional informations:
-[http://www.dreamtheater.net/](http://www.dreamtheater.net/)
+[Dream Theater - Wikipedia](https://en.wikipedia.org/wiki/Dream_Theater)
 
-[https://en.wikipedia.org/wiki/Dream_Theater](https://en.wikipedia.org/wiki/Dream_Theater)
+[Dream Theater - Official Website](https://dreamtheater.net/home-avfttotw/)
+
+[DREAM THEATER Announces Return Of Drummer MIKE PORTNOY](https://blabbermouth.net/news/dream-theater-announces-return-of-drummer-mike-portnoy)
 
 #### Photo of the Dream Theater:
-![Dream Theater photo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dream_Theater_live_at_Mediolanum_Forum%2C_Assago_-_February_12th%2C_2020.jpg/267px-Dream_Theater_live_at_Mediolanum_Forum%2C_Assago_-_February_12th%2C_2020.jpg)
+![Dream Theater photo](http://images.fanpop.com/images/image_uploads/Dream-Theater-dream-theater-218476_600_763.jpg)
