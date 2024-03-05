@@ -1,8 +1,10 @@
 ## Nine Inch Nails
 #### Additional informations:
-[https://en.wikipedia.org/wiki/Nine_Inch_Nails](https://en.wikipedia.org/wiki/Nine_Inch_Nails)
+[Best Nine Inch Nails Songs: Essential Trent Reznor Tracks](https://www.udiscovermusic.com/stories/20-best-nine-inch-nails-songs/)
 
-[https://en.wikipedia.org/wiki/List_of_Nine_Inch_Nails_band_members](https://en.wikipedia.org/wiki/List_of_Nine_Inch_Nails_band_members)
+[Nine Inch Nails music, videos, stats, and photos | Last.fm](https://www.last.fm/music/Nine+Inch+Nails)
+
+[Nine Inch Nails - Year Zero (Full Album) 2007 - YouTube](https://www.youtube.com/watch?v=X-h13QYb7EA)
 
 #### Photo of the Nine Inch Nails:
-![Nine Inch Nails photo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NIN_%40_Aragon%2C_Chicago_10_25_2018_%2846252620014%29.jpg/289px-NIN_%40_Aragon%2C_Chicago_10_25_2018_%2846252620014%29.jpg)
+![Nine Inch Nails photo](https:https://i.pinimg.com/originals/34/2d/4c/342d4c3909d684a3cba0fb47b93c9309.jpg)

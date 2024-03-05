@@ -1,8 +1,10 @@
 ## Tenacious D
 #### Additional informations:
-[https://en.wikipedia.org/wiki/Tenacious_D](https://en.wikipedia.org/wiki/Tenacious_D)
+[Tenacious D - Wikipedia](https://en.wikipedia.org/wiki/Tenacious_D)
 
-[https://en.wikipedia.org/wiki/Tenacious_D_in_The_Pick_of_Destiny](https://en.wikipedia.org/wiki/Tenacious_D_in_The_Pick_of_Destiny)
+[The top 20 best Tenacious D songs ever | Louder](https://www.loudersound.com/features/the-top-20-best-tenacious-d-songs-ever)
+
+[The top 20 best Tenacious D songs ever - Louder](https://www.loudersound.com/features/the-top-20-best-tenacious-d-songs-ever/2)
 
 #### Photo of the Tenacious D:
-![Tenacious D photo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tenacious_D_-_Rock_am_Ring_2016_-2016155215305_2016-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0802_-_AK8I0813_mod.jpg/260px-Tenacious_D_-_Rock_am_Ring_2016_-2016155215305_2016-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0802_-_AK8I0813_mod.jpg)
+![Tenacious D photo](https:http://www.laut.de/Tenacious-D/tenacious-d-15333.jpg)

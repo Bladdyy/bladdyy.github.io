@@ -1,8 +1,10 @@
 ## Megadeth
 #### Additional informations:
-[https://en.wikipedia.org/wiki/Megadeth](https://en.wikipedia.org/wiki/Megadeth)
+["We went through everything, from homelessness to starvation." Megadeth ...](https://www.loudersound.com/features/megadeth-at-40-feature-metal-hammer)
 
-[https://en.wikipedia.org/wiki/Megadeth_discography](https://en.wikipedia.org/wiki/Megadeth_discography)
+[The List of Megadeth Albums in Order of Release Date](https://www.thereadingorder.com/megadeth-albums-in-order/)
+
+[All 16 Megadeth Albums Ranked - Loudwire](https://loudwire.com/megadeth-albums-ranked/)
 
 #### Photo of the Megadeth:
-![Megadeth photo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Megadeth_Live_at_The_O2_2018-06-16.jpg/267px-Megadeth_Live_at_The_O2_2018-06-16.jpg)
+![Megadeth photo](https:https://metalheadcommunity.com/wp-content/uploads/2021/07/Megadeth-lineup-through-the-years-2010.jpg)

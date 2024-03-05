@@ -1,8 +1,10 @@
 ## Motörhead
 #### Additional informations:
-[https://en.wikipedia.org/wiki/Mot%C3%B6rhead](https://en.wikipedia.org/wiki/Mot%C3%B6rhead)
+[25 Fascinating Facts About Motörhead - Spinditty](https://spinditty.com/genres/Fifty-Fascinating-Facts-About-Motrhead)
 
-[https://en.wikipedia.org/wiki/Mot%C3%B6rhead_discography](https://en.wikipedia.org/wiki/Mot%C3%B6rhead_discography)
+[Remembering Motörhead](https://www.side-line.com/remembering-motorhead/)
+
+[Motorhead by Motörhead: the story of the song that changed ... - Louder](https://www.loudersound.com/features/motorhead-by-motorhead-the-story-behind-the-song)
 
 #### Photo of the Motörhead:
-![Motörhead photo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Motorhead-03.jpg/300px-Motorhead-03.jpg)
+![Motörhead photo](https:https://cdn.mos.cms.futurecdn.net/zrtKRotRAG3a2d9tyD9FaE-1200-80.jpg)

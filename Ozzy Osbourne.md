@@ -1,8 +1,10 @@
 ## Ozzy Osbourne
 #### Additional informations:
-[https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Black_Sabbath_%28Iommi%2C_Osbourne%2C_Ward_and_Butler%29.JPG/220px-Black_Sabbath_%28Iommi%2C_Osbourne%2C_Ward_and_Butler%29.JPG?sa=X&ved=2ahUKEwiRvrvo_9KEAxVt4MkDHSu3AywQ_B16BAgKEAI](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Black_Sabbath_%28Iommi%2C_Osbourne%2C_Ward_and_Butler%29.JPG/220px-Black_Sabbath_%28Iommi%2C_Osbourne%2C_Ward_and_Butler%29.JPG?sa=X&ved=2ahUKEwiRvrvo_9KEAxVt4MkDHSu3AywQ_B16BAgKEAI)
+[The 60 greatest Ozzy Osbourne songs | Louder](https://www.loudersound.com/features/the-60-best-Ozzy-Osbourne-songs)
 
-[https://en.wikipedia.org/wiki/Ozzy_Osbourne](https://en.wikipedia.org/wiki/Ozzy_Osbourne)
+[NEWS - Ozzy Osbourne Official Site](https://www.ozzy.com/news)
+
+[The 60 best Ozzy Osbourne songs of all time - Louder](https://www.loudersound.com/features/the-60-best-Ozzy-Osbourne-songs/5)
 
 #### Photo of the Ozzy Osbourne:
-![Ozzy Osbourne photo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ozzyosborne-autogramm.svg/150px-Ozzyosborne-autogramm.svg.png)
+![Ozzy Osbourne photo](https:https://i.pinimg.com/originals/11/e8/c9/11e8c9a55c3c63b3a528edcf844f52ae.jpg)

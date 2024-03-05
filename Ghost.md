@@ -1,8 +1,10 @@
 ## Ghost
 #### Additional informations:
-[https://en.wikipedia.org/wiki/Ghost_(Swedish_band)](https://en.wikipedia.org/wiki/Ghost_(Swedish_band))
+[Ghost band: The definitive guide to every member of the Ghost universe ...](https://www.loudersound.com/features/the-ghost-family-tree)
 
-[https://en.wikipedia.org/wiki/Ghost_discography](https://en.wikipedia.org/wiki/Ghost_discography)
+[Listen to Ghost's new single featuring Patrick Wilson - Louder](https://www.loudersound.com/news/ghost-share-stay-cover-with-patrick-wilson)
+
+[TOBIAS FORGE On Upcoming GHOST Movie: 'It's Going To Be A Film With A ...](https://blabbermouth.net/news/tobias-forge-on-upcoming-ghost-movie-its-going-to-be-a-film-with-a-concert-element)
 
 #### Photo of the Ghost:
-![Ghost photo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NAMA_Herm%C3%A8s_%26_Myrrhin%C3%A8.jpg/200px-NAMA_Herm%C3%A8s_%26_Myrrhin%C3%A8.jpg)
+![Ghost photo](https:http://getwallpapers.com/wallpaper/full/e/c/9/68622.jpg)
