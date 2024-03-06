@@ -7,4 +7,4 @@
 [Slayer Officially Reunite, Announce First Shows - Loudwire](https://loudwire.com/slayer-officially-reunite-announce-first-show/)
 
 #### Photo of the Slayer:
-![Slayer photo](https://www.revolvermag.com/sites/default/files/media/images/article/slayer_featured_credit_jimmyhubbard.jpg)
+![Slayer photo](https://wallpaperaccess.com/full/8524598.jpg)

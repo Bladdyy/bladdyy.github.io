@@ -7,4 +7,4 @@
 [A beginner's guide to Iron Maiden in five essential albums](https://www.loudersound.com/features/beginners-guide-to-iron-maiden)
 
 #### Photo of the Iron Maiden:
-![Iron Maiden photo](https://www.thisisdig.com/wp-content/uploads/2022/02/Iron-Maiden-Final.jpg)
+![Iron Maiden photo](https://guitar.com/wp-content/uploads/2020/08/Iron-Maiden-Photo-GeorgeBodnarArchive@1400x1050.jpg)

@@ -69,7 +69,7 @@ def main_site():
     sentence = soup.find('p').text
     create_table(soup)
     with open("index.md", "w", encoding='utf-8') as file:
-        file.write("# Nagrody Grammy dla zespołów grąjacych muzykę metalową.\n")
+        file.write("# Nagrody Grammy dla zespołów grających muzykę metalową.\n")
         file.write(sentence + "\n")
         file.write("[Zdobywcy Grammy](table.md)")
 
