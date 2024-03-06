@@ -18,7 +18,7 @@ def create_subsite(name):
     )
     with open(name + ".md", "w", encoding="utf-8") as file:
         file.write("## " + name + "\n")
-        file.write("#### Additional informations:\n")
+        file.write("#### Dodatkowe informacje:\n")
         for temp in info:
             file.write("[" + temp['title'] +"](" + temp['href'] + ")\n\n")
         file.write("#### Photo of the " + name + ":\n")
@@ -69,7 +69,7 @@ def main_site():
     sentence = soup.find('p').text
     create_table(soup)
     with open("index.md", "w", encoding='utf-8') as file:
-        file.write("# Nagrody Grammy dla zespolów grajacych muzyke metalowa.\n")
+        file.write("# Nagrody Grammy dla zespołów grąjacych muzykę metalową.\n")
         file.write(sentence + "\n")
         file.write("[Zdobywcy Grammy](table.md)")
 

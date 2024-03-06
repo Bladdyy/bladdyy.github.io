@@ -1,5 +1,5 @@
 ## Slipknot
-#### Additional informations:
+#### Dodatkowe informacje:
 [Slipknot](https://slipknot1.com/)
 
 [Slipknot discography - Wikipedia](https://en.wikipedia.org/wiki/Slipknot_discography)

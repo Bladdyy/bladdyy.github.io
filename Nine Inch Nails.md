@@ -1,5 +1,5 @@
 ## Nine Inch Nails
-#### Additional informations:
+#### Dodatkowe informacje:
 [Sex, blasphemy, murder: Is Nine Inch Nails' The Downward Spiral the ...](https://www.abc.net.au/listen/doublej/music-reads/features/nine-inch-nails-downward-spiral-anniversary-closer-hurt-reznor/103552942)
 
 [Nine Inch Nails music, videos, stats, and photos | Last.fm](https://www.last.fm/music/Nine+Inch+Nails)

@@ -1,5 +1,5 @@
 ## Black Sabbath
-#### Additional informations:
+#### Dodatkowe informacje:
 [Black Sabbath | Members, Albums, Songs, & Facts | Britannica](https://www.britannica.com/topic/Black-Sabbath)
 
 [Listen to Black Sabbath cover Deep Purple's Smoke On The ... - Louder](https://www.loudersound.com/features/black-sabbath-deep-purple-smoke-on-the-water-1983)

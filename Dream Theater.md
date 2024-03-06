@@ -1,5 +1,5 @@
 ## Dream Theater
-#### Additional informations:
+#### Dodatkowe informacje:
 [Dream Theater - Wikipedia](https://en.wikipedia.org/wiki/Dream_Theater)
 
 [Dream Theater - Official Website](https://dreamtheater.net/home-avfttotw/)

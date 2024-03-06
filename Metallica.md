@@ -1,10 +1,10 @@
 ## Metallica
-#### Additional informations:
-[Metallica discography - Wikipedia](https://en.wikipedia.org/wiki/Metallica_discography)
-
+#### Dodatkowe informacje:
 [The 15 best Metallica songs - Entertainment Weekly](https://ew.com/music/best-metallica-songs/)
 
-[What keeps Metallica going after 40 years of making music](https://www.npr.org/2023/04/14/1170170542/what-keeps-metallica-going-after-40-years-of-making-music)
+[Metallica (album) - Wikipedia](https://en.wikipedia.org/wiki/Metallica_(album))
+
+[Metallica Band Members (Names, Ages, Trivia) - Musical Mum](https://www.musicalmum.com/metallica-band-members/)
 
 #### Photo of the Metallica:
-![Metallica photo](https://nextmosh.com/wp-content/uploads/2022/11/Metallica_promo_2022.jpg)
+![Metallica photo](https://static.billboard.com/files/media/Metallica-2018-cr-Herring-Herring-billboard-1548-compressed.jpg)

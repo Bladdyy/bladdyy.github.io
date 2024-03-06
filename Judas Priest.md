@@ -1,10 +1,10 @@
 ## Judas Priest
-#### Additional informations:
+#### Dodatkowe informacje:
 [Judas Priest, 'Invincible Shield': Album Review - Ultimate Classic Rock](https://ultimateclassicrock.com/judas-priest-invincible-shield-album-review/)
 
-[Rob Halford Interview: Judas Priest, Dolly Parton, 2wo ... - Stereogum](https://www.stereogum.com/2254238/judas-priests-rob-halford-invincible-shield/interviews/weve-got-a-file-on-you/)
+[Music Review: Judas Priest shows you don't have to be young to be fast ...](https://apnews.com/article/judas-priest-invincible-shield-review-album-5a938cd1e5e214671cbc4291958ee3eb)
 
-[Judas Priest - Trial By Fire (Official Video) - YouTube](https://www.youtube.com/watch?v=2YqZuo1WKk4)
+[Judas Priest prove yet again that little in this world is as timeless ...](https://www.loudersound.com/reviews/judas-priest-invincible-shield-review)
 
 #### Photo of the Judas Priest:
 ![Judas Priest photo](https://4.bp.blogspot.com/-BkVoCvTpJhk/V6tce3LqZMI/AAAAAAABCDY/3Ec3JogWll87HyuJ540mARHjfmgET_QNwCLcB/s1600/judas_priest_credit_aaron_rapoport.jpg)
