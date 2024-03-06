@@ -4,7 +4,7 @@
 
 [Dream Theater - Official Website](https://dreamtheater.net/home-avfttotw/)
 
-[DREAM THEATER Announces Return Of Drummer MIKE PORTNOY](https://blabbermouth.net/news/dream-theater-announces-return-of-drummer-mike-portnoy)
+[DREAM THEATER Officially Begins Work On First Studio Album With MIKE ...](https://blabbermouth.net/news/dream-theater-officially-begins-work-on-first-studio-album-with-mike-portnoy-in-15-years)
 
 #### Photo of the Dream Theater:
-![Dream Theater photo](http://images.fanpop.com/images/image_uploads/Dream-Theater-dream-theater-218476_600_763.jpg)
+![Dream Theater photo](https://i.postimg.cc/RCWkgLpR/folder.jpg)

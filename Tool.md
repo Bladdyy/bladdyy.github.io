@@ -4,7 +4,7 @@
 
 [TOOL announce 2024 U.S. headlining tour | Revolver](https://www.revolvermag.com/events/tool-announce-2024-us-headlining-tour)
 
-[The Weird, Enduring Appeal of Tool | The New Yorker](https://www.newyorker.com/culture/cultural-comment/the-weird-enduring-appeal-of-tool)
+[TOOL Band History Guide - The Complex Philosopher of Metal](https://rockerainsider.com/bands/tool-band-history-guide/)
 
 #### Photo of the Tool:
-![Tool photo](https://lastfm.freetls.fastly.net/i/u/ar0/98007de27dc09a45e3e049b643ea605d.jpg)
+![Tool photo](http://getwallpapers.com/wallpaper/full/3/a/7/1297061-amazing-tool-band-wallpaper-1920x1200-ipad-retina.jpg)

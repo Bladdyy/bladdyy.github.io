@@ -7,4 +7,4 @@
 [SLIPKNOT Band Members: A Comprehensive List - Both Past And Present ...](https://loadedradio.com/slipknot-band-members-a-comprehensive-list/)
 
 #### Photo of the Slipknot:
-![Slipknot photo](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-162714-20140801-slipknot-x1800-1406917108.jpg?crop=900:600&width=440)
+![Slipknot photo](https://cdn.mos.cms.futurecdn.net/nKCiiDgCyDCpxT844PQDAD.jpg)

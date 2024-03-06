@@ -1,10 +1,10 @@
 ## Metallica
 #### Additional informations:
-[Metallica Band Members: List of Every Member of Metallica - Metal Shout](https://metalshout.com/metallica-band-members-full-list/)
-
 [Metallica discography - Wikipedia](https://en.wikipedia.org/wiki/Metallica_discography)
 
 [The 15 best Metallica songs - Entertainment Weekly](https://ew.com/music/best-metallica-songs/)
 
+[What keeps Metallica going after 40 years of making music](https://www.npr.org/2023/04/14/1170170542/what-keeps-metallica-going-after-40-years-of-making-music)
+
 #### Photo of the Metallica:
-![Metallica photo](http://images5.fanpop.com/image/photos/31600000/Metallica-metallica-31674401-1986-2008.jpg)
+![Metallica photo](https://nextmosh.com/wp-content/uploads/2022/11/Metallica_promo_2022.jpg)

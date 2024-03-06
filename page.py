@@ -14,7 +14,7 @@ def create_subsite(name):
         type_image=None,
         layout=None,
         license_image=None,
-        max_results=1
+        max_results=2
     )
     with open(name + ".md", "w", encoding="utf-8") as file:
         file.write("## " + name + "\n")
@@ -22,19 +22,13 @@ def create_subsite(name):
         for temp in info:
             file.write("[" + temp['title'] +"](" + temp['href'] + ")\n\n")
         file.write("#### Photo of the " + name + ":\n")
-        file.write("![" + name + " photo](" + photo[0]['image'] + ")\n")
+        file.write("![" + name + " photo](" + photo[1]['image'] + ")\n")
 
 
-def main_site():
-    response = requests.get('https://pl.wikipedia.org/wiki/Nagroda_Grammy_w_kategorii_Best_Metal_Performance')
-    soup = BeautifulSoup(response.content, 'html.parser')
-
-    sentence = soup.find('p').text
-
+def create_table(soup):
     table = soup.select('table')[0]
     rows = table.findAll('td')[:93]
     cols = table.findAll('th')
-
     if len(cols) > 0:
         distinct_bands = set()
         for i in range(int(len(rows) / len(cols))):
@@ -64,10 +58,20 @@ def main_site():
                     colstring = colstring + "[" + msg + "](" + msg + ".md) | "
                 else:
                     colstring = colstring + msg + " | "
-        with open("index.md", "w", encoding='utf-8') as file:
-            file.write("# Nagrody Grammy dla zespolów grajacych muzyke metalowa.\n")
-            file.write(sentence + "\n")
-            file.write("### Zdobywcy Grammy:\n")
-            file.write(colstring)
+            with open("table.md", "w", encoding='utf-8') as file:
+                file.write("### Zdobywcy Grammy:\n")
+                file.write(colstring)
+
+
+def main_site():
+    response = requests.get('https://pl.wikipedia.org/wiki/Nagroda_Grammy_w_kategorii_Best_Metal_Performance')
+    soup = BeautifulSoup(response.content, 'html.parser')
+    sentence = soup.find('p').text
+    create_table(soup)
+    with open("index.md", "w", encoding='utf-8') as file:
+        file.write("# Nagrody Grammy dla zespolów grajacych muzyke metalowa.\n")
+        file.write(sentence + "\n")
+        file.write("[Zdobywcy Grammy](table.md)")
+
 
 main_site()
