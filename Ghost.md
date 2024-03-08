@@ -4,7 +4,7 @@
 
 [Listen to Ghost's new single featuring Patrick Wilson - Louder](https://www.loudersound.com/news/ghost-share-stay-cover-with-patrick-wilson)
 
-[Ghost - Zenith (Official Audio) - YouTube](https://www.youtube.com/watch?v=-9d7ijai2Zg)
+[Ghost Tour Announcements 2024 & 2025, Notifications, Dates ... - Songkick](https://www.songkick.com/artists/186546-ghost)
 
 #### Photo of the Ghost:
-![Ghost photo](https://www.ericcanto.com/wp-content/uploads/2020/07/ghost-band-1-980x516.jpg)
+![Ghost photo](https://trumpwallpapers.com/wp-content/uploads/Ghost-Band-Wallpaper-23-2880x1920-1-1536x1024.jpg)

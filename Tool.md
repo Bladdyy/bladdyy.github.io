@@ -2,9 +2,9 @@
 #### Dodatkowe informacje:
 [Tool Announces Dates For 2023 North American Fall Tour - Billboard](https://www.billboard.com/music/concerts/tool-dates-2023-north-american-fall-tour-1235346683/)
 
-[Tool Mesmerizes the Faithful at Madison Square Garden ... - Variety](https://variety.com/2024/music/reviews/tool-mesmerize-madison-square-garden-concert-review-1235872290/)
+[TOOL announce 2024 U.S. headlining tour | Revolver](https://www.revolvermag.com/events/tool-announce-2024-us-headlining-tour)
 
-[Tool music, videos, stats, and photos | Last.fm](https://www.last.fm/music/Tool)
+[The Weird, Enduring Appeal of Tool | The New Yorker](https://www.newyorker.com/culture/cultural-comment/the-weird-enduring-appeal-of-tool)
 
 #### Photo of the Tool:
-![Tool photo](https://i.pinimg.com/originals/92/b6/16/92b61616fe627146e05a9763f8f14d5d.jpg)
+![Tool photo](http://getwallpapers.com/wallpaper/full/3/a/7/1297061-amazing-tool-band-wallpaper-1920x1200-ipad-retina.jpg)

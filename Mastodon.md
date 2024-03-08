@@ -2,9 +2,9 @@
 #### Dodatkowe informacje:
 [MASTODON albums ranked: from worst to best | Revolver](https://www.revolvermag.com/music/mastodon-albums-ranked-worst-best)
 
-[Lamb of God, Mastodon Announce 2024 Tour: Playing 'Ashes of the Wake ...](https://therockrevival.com/rock-news/lamb-of-god-mastodon-announce-2024-tour-dates-with-kerry-king-unearth/)
+[Mastodon Tickets, Tour Dates & Concerts 2024 & 2023 - Songkick](https://www.songkick.com/artists/91029-mastodon)
 
-[21 Years Ago: Mastodon Became a Contender with 'Remission' - Loudwire](https://loudwire.com/mastodon-remission-album-anniversary/)
+[BILL KELLIHER Talks MASTODON Writing A New Album In 2024 & The ...](https://metalinjection.net/news/bill-kelliher-talks-mastodon-writing-a-new-album-in-2024-the-difficulties-of-touring)
 
 #### Photo of the Mastodon:
 ![Mastodon photo](https://ichef.bbci.co.uk/images/ic/960x540/p01bqy2g.jpg)

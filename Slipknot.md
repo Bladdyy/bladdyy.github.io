@@ -4,7 +4,7 @@
 
 [Slipknot discography - Wikipedia](https://en.wikipedia.org/wiki/Slipknot_discography)
 
-[SLIPKNOT Band Members: A Comprehensive List - Both Past And Present ...](https://loadedradio.com/slipknot-band-members-a-comprehensive-list/)
+[List of songs recorded by Slipknot - Wikipedia](https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Slipknot)
 
 #### Photo of the Slipknot:
 ![Slipknot photo](https://cdn.mos.cms.futurecdn.net/nKCiiDgCyDCpxT844PQDAD.jpg)
